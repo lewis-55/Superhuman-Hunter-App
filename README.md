@@ -55,3 +55,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
    ## 🔗 Links
 
 > ## Checkout the Website [Web Application](https://github.com/lewis-55/Superhuman-Hunter-App.git)
+
+## 🐦 Follow Me:
+
+> [LinkedIn](https://www.linkedin.com/in/laxmikant-ukey-753bba12a/)
